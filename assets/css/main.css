@@ -1522,6 +1522,36 @@ Services Style
   font-weight: 400;
 }
 
+.download-files {
+  padding: 2%;
+  padding-top: 5%;
+  padding-bottom: 20%;
+}
+
+.download-files li {
+  float: left;
+}
+
+.download-files li a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.download-files .btn {
+  background-color: #1f4262;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.download-files .btn:hover {
+  background-color: #8d99af;
+}
+
 /* 
 ---------------------------------------------
 Contact
